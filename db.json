@@ -1,6 +1,16 @@
 {
   "results": [
     {
+      "id": 3428,
+      "title": "Cylindrically",
+      "descrition": "A collection about the simplicity of cylinders and their beauty.",
+      "price": 0.037,
+      "author": "Josef Novák",
+      "expiration": "5 days left",
+      "preview": "https://github.com/mateusabelli/nft-mock-api/blob/main/assets/3428-preview.jpg?raw=true",
+      "avatar": "https://github.com/mateusabelli/nft-mock-api/blob/main/assets/3428-avatar.png?raw=true"
+    },
+    {
       "id": 3429,
       "title": "Equilibrium",
       "descrition": "Our Equilibrium collection promotes balance and calm.",
@@ -12,13 +22,23 @@
     },
     {
       "id": 3430,
-      "title": "Lorem Ipsum",
-      "descrition": "The famous Lorem collection promotes a nice placeholder and calm.",
-      "price": 0.513,
-      "author": "TheLorem",
+      "title": "Metamesh",
+      "descrition": "The most elegant and explosive collection to make you feel powerful.",
+      "price": 0.113,
+      "author": "Jóna Jónsdóttir ",
       "expiration": "7 days left",
-      "preview": "./assets/3429-preview.jpg",
-      "avatar": "./assets/3429-avatar.png"
+      "preview": "https://github.com/mateusabelli/nft-mock-api/blob/main/assets/3430-preview.jpg?raw=true",
+      "avatar": "https://github.com/mateusabelli/nft-mock-api/blob/main/assets/3430-avatar.png?raw=true"
+    },
+    {
+      "id": 3431,
+      "title": "Pink Peace",
+      "descrition": "Our Pink Peace collection throws calm feelings on those who look closely.",
+      "price": 0.039,
+      "author": "John Doe",
+      "expiration": "2 days left",
+      "preview": "https://github.com/mateusabelli/nft-mock-api/blob/main/assets/3431-preview.jpg?raw=true",
+      "avatar": "https://github.com/mateusabelli/nft-mock-api/blob/main/assets/3431-avatar.png?raw=true"
     }
   ]
 }
