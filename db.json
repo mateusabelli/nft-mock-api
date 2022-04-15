@@ -7,8 +7,8 @@
       "price": 0.037,
       "author": "Josef Novák",
       "expiration": "5 days left",
-      "preview": "https://github.com/mateusabelli/nft-mock-api/blob/main/assets/3428-preview.jpg?raw=true",
-      "avatar": "https://github.com/mateusabelli/nft-mock-api/blob/main/assets/3428-avatar.png?raw=true"
+      "preview": "https://raw.githubusercontent.com/mateusabelli/nft-mock-api/main/assets/3428-preview.jpg",
+      "avatar": "https://raw.githubusercontent.com/mateusabelli/nft-mock-api/main/assets/3428-avatar.png"
     },
     {
       "id": 3429,
@@ -17,8 +17,8 @@
       "price": 0.041,
       "author": "Jules Wyvern",
       "expiration": "3 days left",
-      "preview": "https://github.com/mateusabelli/nft-mock-api/blob/main/assets/3429-preview.jpg?raw=true",
-      "avatar": "https://github.com/mateusabelli/nft-mock-api/blob/main/assets/3429-avatar.png?raw=true"
+      "preview": "https://raw.githubusercontent.com/mateusabelli/nft-mock-api/main/assets/3429-preview.jpg",
+      "avatar": "https://raw.githubusercontent.com/mateusabelli/nft-mock-api/main/assets/3429-avatar.png"
     },
     {
       "id": 3430,
@@ -27,8 +27,8 @@
       "price": 0.113,
       "author": "Jóna Jónsdóttir ",
       "expiration": "7 days left",
-      "preview": "https://github.com/mateusabelli/nft-mock-api/blob/main/assets/3430-preview.jpg?raw=true",
-      "avatar": "https://github.com/mateusabelli/nft-mock-api/blob/main/assets/3430-avatar.png?raw=true"
+      "preview": "https://raw.githubusercontent.com/mateusabelli/nft-mock-api/main/assets/3430-preview.jpg",
+      "avatar": "https://raw.githubusercontent.com/mateusabelli/nft-mock-api/main/assets/3430-avatar.png"
     },
     {
       "id": 3431,
@@ -37,8 +37,8 @@
       "price": 0.039,
       "author": "John Doe",
       "expiration": "2 days left",
-      "preview": "https://github.com/mateusabelli/nft-mock-api/blob/main/assets/3431-preview.jpg?raw=true",
-      "avatar": "https://github.com/mateusabelli/nft-mock-api/blob/main/assets/3431-avatar.png?raw=true"
+      "preview": "https://raw.githubusercontent.com/mateusabelli/nft-mock-api/main/assets/3431-preview.jpg",
+      "avatar": "https://raw.githubusercontent.com/mateusabelli/nft-mock-api/main/assets/3431-avatar.png"
     }
   ]
 }
