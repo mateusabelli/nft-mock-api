@@ -7,8 +7,8 @@
       "price": 0.041,
       "author": "Jules Wyvern",
       "expiration": "3 days left",
-      "preview": "./assets/3429-preview.jpg",
-      "avatar": "./assets/3429-avatar.png"
+      "preview": "https://github.com/mateusabelli/nft-mock-api/blob/main/assets/3429-preview.jpg?raw=true",
+      "avatar": "https://github.com/mateusabelli/nft-mock-api/blob/main/assets/3429-avatar.png?raw=true"
     },
     {
       "id": 3430,
