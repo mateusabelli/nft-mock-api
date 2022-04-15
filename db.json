@@ -1,0 +1,23 @@
+{
+  "results": [
+    {
+      "id": 3429,
+      "title": "Equilibrium",
+      "descrition": "Our Equilibrium collection promotes balance and calm.",
+      "price": 0.041,
+      "expiration": "3 days left",
+      "preview": "./assets/3429-preview.jpg",
+      "avatar": "./assets/3429-avatar.png"
+    },
+    {
+      "id": 3430,
+      "title": "Lorem",
+      "descrition": "The famous Lorem collection promotes a nice placeholder and calm.",
+      "price": 0.513,
+      "expiration": "7 days left",
+      "preview": "./assets/3429-preview.jpg",
+      "avatar": "./assets/3429-avatar.png"
+    }
+  ]
+}
+
